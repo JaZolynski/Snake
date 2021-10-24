@@ -87,7 +87,7 @@ namespace Snake
 
             }
             lastdirection = direction;
-            if ((head.x == 0) || (head.x == 50) || (head.y == 0) || (head.y == 19))          
+            if ((head.x == 0) || (head.x == 49) || (head.y == 0) || (head.y == 19))          
                 alive = 0;                    
             Draw();                 
         }
