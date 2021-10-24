@@ -31,6 +31,7 @@ namespace Snake
             else
                 return false;
         }
+        int a;
         public void Draw()
         {
             
